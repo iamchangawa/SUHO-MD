@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/fork">
+  <a href="https://github.com/altzzdevs/SUHO-MD/fork">
     <img src="https://img.shields.io/badge/FORK%20REPO-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://session-link-d84fdd10.base44.app">
